@@ -1,3 +1,6 @@
+//*******************************************************
+//        Não implementei a autenticação com JWT
+//*******************************************************
 require('dotenv').config()
 
 //Pacotes importados
